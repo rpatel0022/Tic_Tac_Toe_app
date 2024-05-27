@@ -12,33 +12,37 @@ This is a custom implementation of the classic Tic-Tac-Toe game using Flutter. E
 - Fun fact dialog displayed at the start and after restarting the game.
 - Restart game functionality with score reset.
 
-## Demo Video
-
-Watch the video below to see the app in action:
-
-[![Tic Tac Toe Demo](https://www.youtube.com/watch?v=e9Yr2ApHPwk)]
-
 ## Screenshots
 
 ### Landing Page
 The game starts with a fun fact about Tic Tac Toe.
-![Landing Page](screenshots/landing_page.png)
+<br>
+<img src="screenshots/landing_page.png" alt="Landing Page" width="400">
+<br>
 
 ### Draw Scenario
 When the game ends in a draw.
-![Draw Scenario](screenshots/draw.png)
+<br>
+<img src="screenshots/draw.png" alt="Landing Page" width="400">
+<br>
 
 ### Player 1 Wins
 Player 1 (O) wins the game.
-![Player 1 Wins](screenshots/player1_wins.png)
+<br>
+<img src="screenshots/player1_wins.png" alt="Landing Page" width="400">
+<br>
 
 ### Player 2 Wins
 Player 2 (X) wins the game.
-![Player 2 Wins](screenshots/player2_wins.png)
+<br>
+<img src="screenshots/player2_wins.png" alt="Landing Page" width="400">
+<br>
 
 ### Game Restart
 The game resets the score and displays a new fun fact.
-![Game Restart](screenshots/game_restart.png)
+<br>
+<img src="screenshots/game_restart.png" alt="Landing Page" width="400">
+<br>
 
 ## Getting Started
 
