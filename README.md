@@ -56,7 +56,7 @@ The game resets the score and displays a new fun fact.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/usename/Tic_Tac_Toe_app.git
+    git clone https://github.com/rpatel0022/Tic_Tac_Toe_app.git
     ```
 
 2. **Install dependencies:**
